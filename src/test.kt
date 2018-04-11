@@ -18,3 +18,5 @@ val answer = 42
 val answer2 : Int = 42 //不可变变量
 
 var answer3 : Int = 44 // 可变变量
+
+val languages = arrayListOf("Java")
